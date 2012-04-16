@@ -1,0 +1,4 @@
+MacOS X x64 Assembly example.
+
+Dependencies:
+	1. Install nasm (http://www.nasm.us/), and stick it in your path.
